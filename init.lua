@@ -1,3 +1,2 @@
-require("lua.options")
-require("lua.keymaps")
-require("lua.lazy")
+require("andrei.core")
+require("andrei.lazy")
